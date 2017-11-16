@@ -9,9 +9,6 @@
   License:          GPL
   Copyright         (c) 2008-2018 Event Espresso  All Rights Reserved.
   */
-if (! defined('EVENT_ESPRESSO_VERSION')) {
-    exit('NO direct script access allowed');
-}
 
 /**
  * Adds events to your main blog query.
