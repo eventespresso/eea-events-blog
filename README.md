@@ -1,2 +1,2 @@
-# eea-events-blog
-Injects events into the main blog query
+# Events in Your Blog
+Injects Event Esprsso events into the main blog query
