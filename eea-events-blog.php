@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name:      Front Page Events by Event Espresso
+  Plugin Name:      Front Page Events by Espresso Themes
   Plugin URI:       http://espressothemes.com/front-page-events/
   Description:      Injects events into your main blog query. Created for Barista by Event Espresso but also works great with themes from EspressoThemes.com.
   Version:          1.0.0
