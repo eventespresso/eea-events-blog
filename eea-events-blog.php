@@ -19,6 +19,14 @@
  * @author     Darren Ethier
  */
 
+require 'plugin_update_check.php';
+$MyUpdateChecker = new PluginUpdateChecker_2_0 (
+    'https://kernl.us/api/v1/updates/5a1399aaf5827e0dd3e5fd56/',
+    __FILE__,
+    'eea-events-blog',
+    1
+);
+
 //add events into main blog query.
 add_action('pre_get_posts', 'integrate_events_with_posts', 10);
 function integrate_events_with_posts($WP_Query){
