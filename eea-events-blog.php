@@ -4,7 +4,7 @@
   Plugin Name:      Event Espresso - Front Page Events
   Plugin URI:       http://espressothemes.com/front-page-events/
   Description:      Injects events into your main blog query.
-  Version:          1.0.5
+  Version:          1.0.6
   Author:           Seth Shoultes
   Author URI:       http://eventespresso.com
   License:          GPL
