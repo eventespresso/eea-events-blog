@@ -21,10 +21,19 @@ class SomeClass
 
     /**
      * @return void
-     * @since 1.0.1
+     * @since 1.0.2
      */
     public static function crazyNewFeature()
     {
         echo 'oh wow... this is a crazy new feature :face_with_rolling_eyes:';
+    }
+
+    /**
+     * @return void
+     * @since 1.0.3
+     */
+    public static function yetAnotherFeature()
+    {
+        echo 'another feature?!?!?!';
     }
 }
