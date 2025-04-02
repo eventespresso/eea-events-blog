@@ -18,4 +18,13 @@ class SomeClass
     {
         echo 'Testing version updates...';
     }
+
+    /**
+     * @return void
+     * @since 1.0.1
+     */
+    public static function crazyNewFeature()
+    {
+        echo 'oh wow... this is a crazy new feature :face_with_rolling_eyes:';
+    }
 }
