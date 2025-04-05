@@ -19,6 +19,7 @@ class SomeClass
         echo 'Testing version updates...';
     }
 
+
     /**
      * @return void
      * @since 1.0.2
@@ -28,9 +29,21 @@ class SomeClass
         echo 'oh wow... this is a crazy new feature :face_with_rolling_eyes:';
     }
 
+
+    /**
+     * @return void
+     * @since 1.0.4
+     */
+    public static function betterFeature()
+    {
+        echo 'better feature!!!';
+    }
+
+
     /**
      * @return void
      * @since 1.0.3
+     * @deprecated 1.0.4
      */
     public static function yetAnotherFeature()
     {
